@@ -123,23 +123,18 @@
   text-align:  center;
   margin-bottom: 40px;
 }
-#foot{
-  text-align: center;
-  margin-bottom: 0px;
-}
+
 small{
   margin: 0 auto;
   font-style: oblique;
   font-family: fantasy;
 }
+h2{
+  align-items: flex-start;
+}
 
 /*body*/
-#about{
-  width: 100%;
-  eight: 80%;
-  max-width: 100%;
-  background: #655665;
-}
+
 /*footer*/
 
 footer{
@@ -148,9 +143,7 @@ footer{
   bottom: 0;
   background-color: #000;
 }
-
-
-
-
-
+#foot{
+  text-align: center;
+  margin-bottom: 0px;
 }
